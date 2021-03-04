@@ -1,2 +1,2 @@
 # CoffeeShop
-##Applied HTML5 CSS and Javascript
+Applied HTML5 CSS and Javascript
